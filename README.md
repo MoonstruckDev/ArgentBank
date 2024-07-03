@@ -1,6 +1,6 @@
 # Argent Bank
 
-![Real Estate Rental](https://img.shields.io/badge/Banking Agency-argent%20bank-green)
+![Banking Agency](https://img.shields.io/badge/Banking%20Agency-kasa-green)
 
 
 This repository contains the code needed to run both the frontend and backend for Argent Bank. The frontend is coded in React, and the backend with Node.js, Express, and MongoDB.
